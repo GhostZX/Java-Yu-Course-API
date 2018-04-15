@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: Java Yu Course API
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: zhangyubo
+Built-By: Yubo
 Implementation-Vendor-Id: io.yuboz.springbootquickstart
 Build-Jdk: 1.8.0_112
 Implementation-URL: http://projects.spring.io/spring-boot/course-api/
